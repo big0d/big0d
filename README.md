@@ -11,8 +11,5 @@
   <a href="https://www.linkedin.com/in/m0ur5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href="https://account.xbox.com/pt-br/Profile?xr=mebarnav&rtc=1" target="_blank"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" target="_blank"></a>
 </div>
-
-  ##
   
-<div>
-  ![Snake animation](https://github.com/big0d/big0d/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/big0d/big0d/blob/output/github-contribution-grid-snake.svg)
