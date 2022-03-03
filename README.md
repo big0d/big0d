@@ -1,5 +1,3 @@
-##
-
 <div align="center">
   <a href="https://github.com/big0d">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=big0d&show_icons=false&theme=graywhite&include_all_commits=true&count_private=true"/>
