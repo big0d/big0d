@@ -15,7 +15,9 @@
 <div align="center">
   <a href="https://github.com/big0d">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=big0d&show_icons=false&theme=graywhite&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=big0d&layout=compact&langs_count=16&theme=graywhite"/>
+ <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=big0d&layout=compact&langs_count=16&theme=graywhite"/>-->
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=big0d&hide=html&layout=compact&theme=graywhite"/>
+    
 </div>
   
   
@@ -25,7 +27,7 @@
     <img height="175em" alt="big0d's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=big0d&theme=graywhite-metallian&hide_border=true"/>
   </a>
   </div>
-
+  
 ##
 
 <div align="center">
