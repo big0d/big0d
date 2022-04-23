@@ -13,7 +13,7 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/big0d">
+  <a href="https://github.com/jovemfs">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jovemfs&show_icons=false&theme=graywhite&include_all_commits=true&count_private=true"/>
  <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovemfs&layout=compact&langs_count=16&theme=graywhite"/>-->
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovemfs&hide=html&layout=compact&theme=graywhite"/>
@@ -24,7 +24,7 @@
   <div align="center">
     <img height="175em" alt="anime hacking gif" src="https://i.imgur.com/8eYeXi9.gif"/>
   <a href="https://github.com/jovemfs/github-readme-streak-stats">
-    <img height="175em" alt="big0d's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jovemfs&theme=graywhite-metallian&hide_border=true"/>
+    <img height="175em" alt="jovemfs's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jovemfs&theme=graywhite-metallian&hide_border=true"/>
   </a>
   </div>
   
