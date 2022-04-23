@@ -14,17 +14,17 @@
 
 <div align="center">
   <a href="https://github.com/big0d">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=big0d&show_icons=false&theme=graywhite&include_all_commits=true&count_private=true"/>
- <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=big0d&layout=compact&langs_count=16&theme=graywhite"/>-->
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=big0d&hide=html&layout=compact&theme=graywhite"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jovemfs&show_icons=false&theme=graywhite&include_all_commits=true&count_private=true"/>
+ <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovemfs&layout=compact&langs_count=16&theme=graywhite"/>-->
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovemfs&hide=html&layout=compact&theme=graywhite"/>
     
 </div>
   
   
   <div align="center">
     <img height="175em" alt="anime hacking gif" src="https://i.imgur.com/8eYeXi9.gif"/>
-  <a href="https://github.com/big0d/github-readme-streak-stats">
-    <img height="175em" alt="big0d's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=big0d&theme=graywhite-metallian&hide_border=true"/>
+  <a href="https://github.com/jovemfs/github-readme-streak-stats">
+    <img height="175em" alt="big0d's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jovemfs&theme=graywhite-metallian&hide_border=true"/>
   </a>
   </div>
   
@@ -39,4 +39,4 @@
   <a href="https://account.xbox.com/pt-br/Profile?xr=mebarnav&rtc=1" target="_blank"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" target="_blank">--></a>
 </div>
   
-![Snake animation](https://github.com/big0d/big0d/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jovemfs/jovemfs/blob/output/github-contribution-grid-snake.svg)
