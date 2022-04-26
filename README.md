@@ -37,6 +37,13 @@
   <!--<a href="https://www.behance.net/mucaos" target="_blank"><img height="28em" src="https://cdn-icons-png.flaticon.com/512/145/145799.png"/>
   <a href="https://www.twitch.tv/naoseijogarfps" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://account.xbox.com/pt-br/Profile?xr=mebarnav&rtc=1" target="_blank"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" target="_blank">--></a>
+<details>
+  <summary> <b>Sobre mim</b><i> (clickzin para abrir)</i> </summary> 
+  <br>
+    Faço design gráfico, estudo operação de câmera narrativa e gosto de pesquisar sobre um monte de coisa aleatória e que vão me deixar sem emprego. Atualmente estudante de programação JS pelo Instituto PROA e estudando Python por fora. Jogo vavazinho de lei no tempo livre e vejo uns filme véi na tentativa de criar repertório para alguma situação hipotética e irreal. <br><br>
+  <img align="center" width="310" src="https://user-images.githubusercontent.com/59957939/165213217-4e92425e-84f0-486e-beab-6931aec602e1.png">
+</details>
+</div>
 </div>
   
 ![Snake animation](https://github.com/jovemfs/jovemfs/blob/output/github-contribution-grid-snake.svg)
