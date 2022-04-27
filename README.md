@@ -43,6 +43,13 @@
     Faço design gráfico, estudo operação de câmera narrativa e gosto de pesquisar sobre um monte de coisa aleatória e que vão me deixar sem emprego. Atualmente estudante de programação JS pelo Instituto PROA e estudando Python por fora. Jogo vavazinho de lei no tempo livre e vejo uns filme véi na tentativa de criar repertório para alguma situação hipotética e irreal. <br><br>
   <img align="center" width="310" src="https://user-images.githubusercontent.com/59957939/165213217-4e92425e-84f0-486e-beab-6931aec602e1.png">
 </details>
+  
+<!--<details>
+  <summary> <b>Card daily.dev</b><i> (clickzin)</i> </summary> 
+  <br>
+  <a href="https://app.daily.dev/jovemfs"><img src="https://api.daily.dev/devcards/f4a4a0ee238d427aa5a1703656a5dd0c.png?r=i8r" width="400" alt="Moura's Dev Card"/></a>
+</details>-->
+  
 </div>
 </div>
   
