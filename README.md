@@ -11,12 +11,11 @@
 <!--fbb9ff-->
 
 <!-- bagdes q eu fiz rapidin no ps
-![daily dev black](https://user-images.githubusercontent.com/59957939/165642733-0983e4e3-42cf-4915-9814-0a244763e1e5.png)
-![gmail black](https://user-images.githubusercontent.com/59957939/165642735-36d91df5-a535-4c25-ab61-77e3ef8cfa41.png)
-![linkedin black](https://user-images.githubusercontent.com/59957939/165642737-c19b7292-65bd-45e2-902f-324c1a209dfd.png)
-![behance blac](https://user-images.githubusercontent.com/59957939/165642740-95df90ce-67d0-49bb-947d-21a543a8d76d.png)
+![behance_blac](https://user-images.githubusercontent.com/59957939/165644980-22a29fd4-6631-4ea0-9011-d6e3d2ebaf05.svg)
+![linkedin_black](https://user-images.githubusercontent.com/59957939/165645046-acf6b795-2e82-4200-97d0-f20e8dd95b06.svg)
+![daily_dev_black](https://user-images.githubusercontent.com/59957939/165645119-36434c4e-2d26-4753-a580-f5faa08d7791.svg)
+![gmail_black](https://user-images.githubusercontent.com/59957939/165645140-4664a89b-0954-4542-a183-8e84dcd89899.svg)
  -->
-
 
 ##
 
@@ -40,11 +39,10 @@
 
 <div align="center">
 <!-- social -->
- <a href="https://www.linkedin.com/in/m0ur5/" target="_blank"><img height="27px" src="https://user-images.githubusercontent.com/59957939/165642737-c19b7292-65bd-45e2-902f-324c1a209dfd.png" target="_blank"></a>  
-  <a href="https://www.behance.net/mucaos" target="_blank"><img height="27px" src="https://user-images.githubusercontent.com/59957939/165642740-95df90ce-67d0-49bb-947d-21a543a8d76d.png"/>
-  <a href="mailto:uxmoura@gmail.com"><img height="27px" src="https://user-images.githubusercontent.com/59957939/165642735-36d91df5-a535-4c25-ab61-77e3ef8cfa41.png" target="_blank"></a>
-    <a href="https://app.daily.dev/jovemfs"><img height="27px" src="https://user-images.githubusercontent.com/59957939/165642733-0983e4e3-42cf-4915-9814-0a244763e1e5.png" target="_blank"></a>
-</a>
+  <a href="https://www.behance.net/mucaos" target="_blank"><img height="27px" src="https://user-images.githubusercontent.com/59957939/165644980-22a29fd4-6631-4ea0-9011-d6e3d2ebaf05.svg"/>
+  <a href="mailto:uxmoura@gmail.com"><img height="27px" src="https://user-images.githubusercontent.com/59957939/165645140-4664a89b-0954-4542-a183-8e84dcd89899.svg" target="_blank"></a>
+  <a href="https://app.daily.dev/jovemfs"><img height="27px" src="https://user-images.githubusercontent.com/59957939/165645119-36434c4e-2d26-4753-a580-f5faa08d7791.svg" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/m0ur5/" target="_blank"><img height="27px" src="https://user-images.githubusercontent.com/59957939/165645046-acf6b795-2e82-4200-97d0-f20e8dd95b06.svg" target="_blank"></a>  
 <!-- social -->
   
 <!-- sobre mim -->
