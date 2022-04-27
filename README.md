@@ -10,6 +10,14 @@
 <!--f997ff-->
 <!--fbb9ff-->
 
+<!-- bagdes q eu fiz rapidin no ps
+![daily dev black](https://user-images.githubusercontent.com/59957939/165642733-0983e4e3-42cf-4915-9814-0a244763e1e5.png)
+![gmail black](https://user-images.githubusercontent.com/59957939/165642735-36d91df5-a535-4c25-ab61-77e3ef8cfa41.png)
+![linkedin black](https://user-images.githubusercontent.com/59957939/165642737-c19b7292-65bd-45e2-902f-324c1a209dfd.png)
+![behance blac](https://user-images.githubusercontent.com/59957939/165642740-95df90ce-67d0-49bb-947d-21a543a8d76d.png)
+ -->
+
+
 ##
 
 <!-- estatisticas -->
@@ -32,9 +40,10 @@
 
 <div align="center">
 <!-- social -->
- <a href="https://www.linkedin.com/in/m0ur5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  <a href="https://www.behance.net/mucaos" target="_blank"><img height="28em" src="https://cdn-icons-png.flaticon.com/512/145/145799.png"/>
-  <a href = "mailto:uxmoura@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/m0ur5/" target="_blank"><img height="27px" src="https://user-images.githubusercontent.com/59957939/165642737-c19b7292-65bd-45e2-902f-324c1a209dfd.png" target="_blank"></a>  
+  <a href="https://www.behance.net/mucaos" target="_blank"><img height="27px" src="https://user-images.githubusercontent.com/59957939/165642740-95df90ce-67d0-49bb-947d-21a543a8d76d.png"/>
+  <a href="mailto:uxmoura@gmail.com"><img height="27px" src="https://user-images.githubusercontent.com/59957939/165642735-36d91df5-a535-4c25-ab61-77e3ef8cfa41.png" target="_blank"></a>
+    <a href="https://app.daily.dev/jovemfs"><img height="27px" src="https://user-images.githubusercontent.com/59957939/165642733-0983e4e3-42cf-4915-9814-0a244763e1e5.png" target="_blank"></a>
 </a>
 <!-- social -->
   
