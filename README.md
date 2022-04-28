@@ -10,13 +10,6 @@
 <!--f997ff-->
 <!--fbb9ff-->
 
-<!-- bagdes q eu fiz rapidin no ps
-![behance_blac](https://user-images.githubusercontent.com/59957939/165644980-22a29fd4-6631-4ea0-9011-d6e3d2ebaf05.svg)
-![linkedin_black](https://user-images.githubusercontent.com/59957939/165645046-acf6b795-2e82-4200-97d0-f20e8dd95b06.svg)
-![daily_dev_black](https://user-images.githubusercontent.com/59957939/165645119-36434c4e-2d26-4753-a580-f5faa08d7791.svg)
-![gmail_black](https://user-images.githubusercontent.com/59957939/165645140-4664a89b-0954-4542-a183-8e84dcd89899.svg)
- -->
-
 ##
 
 <!-- estatisticas -->
