@@ -21,10 +21,13 @@
 </div>
   
 <div align="center">
-    <img height="175em" alt="anime hacking gif" src="https://i.imgur.com/8eYeXi9.gif"/>
+    <!-- <img height="175em" alt="anime hacking gif" src="https://i.imgur.com/8eYeXi9.gif"/>
   <a href="https://github.com/jovemfs/github-readme-streak-stats">
     <img height="175em" alt="jovemfs's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jovemfs&theme=graywhite-metallian&hide_border=true"/>
-  </a>
+  </a> -->
+  <img height="195em" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
+  <a href="https://github.com/jovemfs/github-readme-streak-stats">
+  <img height="195em" alt="jovemfs's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jovemfs&theme=graywhite-metallian&hide_border=true"/>
 </div>
 <!-- estatisticas -->
   
