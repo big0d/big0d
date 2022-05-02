@@ -44,10 +44,9 @@
 
 <div align="center">
 <!-- social -->
-  <a href="https://www.behance.net/mucaos" target="_blank"><img height="27px" src="https://user-images.githubusercontent.com/59957939/165644980-22a29fd4-6631-4ea0-9011-d6e3d2ebaf05.svg"/>
-  <a href="mailto:uxmoura@gmail.com"><img height="27px" src="https://user-images.githubusercontent.com/59957939/165645140-4664a89b-0954-4542-a183-8e84dcd89899.svg" target="_blank"></a>
-  <a href="https://app.daily.dev/jovemfs"><img height="27px" src="https://user-images.githubusercontent.com/59957939/165645119-36434c4e-2d26-4753-a580-f5faa08d7791.svg" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/m0ur5/" target="_blank"><img height="27px" src="https://user-images.githubusercontent.com/59957939/165645046-acf6b795-2e82-4200-97d0-f20e8dd95b06.svg" target="_blank"></a>  
+  <a href="mailto:uxmoura@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.behance.net/mucaos" target="_blank"><img height="28em" src="https://cdn-icons-png.flaticon.com/512/145/145799.png"/>
+  <a href="https://www.linkedin.com/in/m0ur5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <!-- social -->
   
 <!-- sobre mim -->
