@@ -15,9 +15,9 @@
 <!-- estatisticas -->
 <div align="center">
   <a href="https://github.com/jovemfs">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jovemfs&show_icons=false&theme=graywhite&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jovemfs&show_icons=false&theme=nord&include_all_commits=true&count_private=true"/>
  <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovemfs&layout=compact&langs_count=16&theme=graywhite"/>-->
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovemfs&hide=html&layout=compact&theme=graywhite"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovemfs&hide=html&layout=compact&theme=nord"/>
 </div>
   
 <div align="center">
@@ -26,7 +26,9 @@
   
   <img height="187em" alt="anime hacking gif" src="https://pa1.narvii.com/6387/9a11050897be5995c58b1eb779939481aad89e08_hq.gif"/>
   <a href="https://github.com/jovemfs/github-readme-streak-stats">
-  <img height="187em" alt="jovemfs's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jovemfs&theme=graywhite-metallian&hide_border=true"/>
+  <img height="187em" alt="jovemfs's streak" src="https://github-readme-streak-stats.herokuapp.com?user=jovemfs&theme=nord&date_format=j%20M%5B%20Y%5D"/>
+   <!-- http://github-readme-streak-stats.herokuapp.com?user=jovemfs&theme=nord&date_format=j%20M%5B%20Y%5D&border=24AEDD -->
+   <!-- http://github-readme-streak-stats.herokuapp.com?user=jovemfs&theme=gotham&date_format=j%20M%5B%20Y%5D&border=24AEDD -->
   </a> 
   
   <!--  <img height="195em" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
