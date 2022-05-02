@@ -29,7 +29,7 @@
   <img height="187em" alt="jovemfs's streak" src="https://github-readme-streak-stats.herokuapp.com?user=jovemfs&theme=react&date_format=j%20M%5B%20Y%5D"/>
    <!-- http://github-readme-streak-stats.herokuapp.com?user=jovemfs&theme=nord&date_format=j%20M%5B%20Y%5D&border=24AEDD -->
    <!-- http://github-readme-streak-stats.herokuapp.com?user=jovemfs&theme=gotham&date_format=j%20M%5B%20Y%5D&border=24AEDD -->
-   <!-- nord | react | graywhite -->
+   <!-- nord | react | graywhite | black-ice -->
    <!-- para temas: http://github-readme-streak-stats.herokuapp.com/demo/?user=jovemfs&theme=default&hide_border=false&date_format=M+j%5B%2C+Y%5D&properties=background -->
   </a> 
   
