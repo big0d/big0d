@@ -30,6 +30,7 @@
    <!-- http://github-readme-streak-stats.herokuapp.com?user=jovemfs&theme=nord&date_format=j%20M%5B%20Y%5D&border=24AEDD -->
    <!-- http://github-readme-streak-stats.herokuapp.com?user=jovemfs&theme=gotham&date_format=j%20M%5B%20Y%5D&border=24AEDD -->
    <!-- nord | react | graywhite -->
+   <!-- para temas: http://github-readme-streak-stats.herokuapp.com/demo/?user=jovemfs&theme=default&hide_border=false&date_format=M+j%5B%2C+Y%5D&properties=background -->
   </a> 
   
   <!--  <img height="195em" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
