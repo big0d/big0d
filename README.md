@@ -15,9 +15,9 @@
 <!-- estatisticas -->
 <div align="center">
   <a href="https://github.com/jovemfs">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jovemfs&show_icons=false&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jovemfs&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
  <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovemfs&layout=compact&langs_count=16&theme=graywhite"/>-->
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovemfs&hide=html&layout=compact&theme=react"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovemfs&hide=html&layout=compact&theme=dark"/>
 </div>
   
 <div align="center">
@@ -26,10 +26,10 @@
   
   <img height="187em" alt="anime hacking gif" src="https://pa1.narvii.com/6387/9a11050897be5995c58b1eb779939481aad89e08_hq.gif"/>
   <a href="https://github.com/jovemfs/github-readme-streak-stats">
-  <img height="187em" alt="jovemfs's streak" src="https://github-readme-streak-stats.herokuapp.com?user=jovemfs&theme=react&date_format=j%20M%5B%20Y%5D"/>
+  <img height="187em" alt="jovemfs's streak" src="https://github-readme-streak-stats.herokuapp.com?user=jovemfs&theme=black-ice&date_format=j%20M%5B%20Y%5D"/>
    <!-- http://github-readme-streak-stats.herokuapp.com?user=jovemfs&theme=nord&date_format=j%20M%5B%20Y%5D&border=24AEDD -->
    <!-- http://github-readme-streak-stats.herokuapp.com?user=jovemfs&theme=gotham&date_format=j%20M%5B%20Y%5D&border=24AEDD -->
-   <!-- nord | react | graywhite | black-ice -->
+   <!-- nord | react | graywhite | black-ice | dark -->
    <!-- para temas: http://github-readme-streak-stats.herokuapp.com/demo/?user=jovemfs&theme=default&hide_border=false&date_format=M+j%5B%2C+Y%5D&properties=background -->
   </a> 
   
