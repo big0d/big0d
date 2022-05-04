@@ -46,9 +46,14 @@
 
 <div align="center">
 <!-- social -->
-  <a href="mailto:uxmoura@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.behance.net/mucaos" target="_blank"><img height="28em" src="https://cdn-icons-png.flaticon.com/512/145/145799.png"/>
-  <a href="https://www.linkedin.com/in/m0ur5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://www.behance.net/mucaos" alt="Behance">
+   <img src="https://img.shields.io/badge/-Behance-1C1C1C?style=for-the-badge&logo=behance&logoColor=FFF&link=https://www.behance.net/giovxna"/></a>
+  
+  <a href="https://www.linkedin.com/in/m0ur5/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=FFF&link=https://www.linkedin.com/in/giovana--siqueira/"/></a>
+   
+   <a href="mailto:uxmoura@gmail.com" alt="Gmail">
+   <img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=FFF" target="_blank"></a> 
 <!-- social -->
   
 <!-- sobre mim -->
