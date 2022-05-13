@@ -70,7 +70,7 @@
   <img align="center" width="310" src="https://user-images.githubusercontent.com/59957939/165213217-4e92425e-84f0-486e-beab-6931aec602e1.png">
   
   #### 🌟 Sobre mim
-  Designer gráfico autodidata, estudo operação de câmera narrativa e gosto de pesquisar sobre um monte de coisa aleatória e que vão me deixar sem emprego. Atualmente estudante de programação web Java pelo Instituto PROA e estudando Python por fora.
+  Designer gráfico autodidata, estudo operação de câmera narrativa e gosto de pesquisar sobre um monte de coisas aleatórias e que vão me deixar sem emprego. Atualmente estudante de programação web Java pelo Instituto PROA e estudando Python por fora.
   
   #### 💾 Arquivos
   *Design gráfico*: [projetos no Behance](https://behance.net/mucaos) <br>
