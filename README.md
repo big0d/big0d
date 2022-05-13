@@ -1,5 +1,5 @@
 <div align="center">
-  
+ 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%fbb9ff&size=18&duration=6000&center=true&vCenter=true&width=600&lines=Bem+vindo+ao+meu+perfil!;Repositórios+importantes+estão+pinnados.;Portfólio+digital+em+behance.net/mucaos.)](https://git.io/typing-svg)
 <!-- vc pode personalizar o texto nesse site aqui: https://readme-typing-svg.herokuapp.com/demo/ :) -->
 </div>
@@ -64,12 +64,23 @@
 <!-- social -->
   
 <!-- sobre mim -->
-<!-- <details>
-  <summary> <b>Sobre mim</b><i> (clickzin para abrir)</i> </summary> 
-  <br>
-    Faço design gráfico, estudo operação de câmera narrativa e gosto de pesquisar sobre um monte de coisa aleatória e que vão me deixar sem emprego. Atualmente estudante de programação JS pelo Instituto PROA e estudando Python por fora. Jogo vavazinho de lei no tempo livre e vejo uns filme véi na tentativa de criar repertório para alguma situação hipotética e irreal. <br><br>
+<details>
+  <summary> <b>Infos</b><i> (clickzin para abrir)</i> </summary> 
+  
   <img align="center" width="310" src="https://user-images.githubusercontent.com/59957939/165213217-4e92425e-84f0-486e-beab-6931aec602e1.png">
-</details>-->
+  
+  #### 🌟 Sobre mim
+  Designer gráfico autodidata, estudo operação de câmera narrativa e gosto de pesquisar sobre um monte de coisa aleatória e que vão me deixar sem emprego. Atualmente estudante de programação web Java pelo Instituto PROA e estudando Python por fora.
+  
+  #### 💾 Arquivos
+  *Design gráfico*: [projetos no Behance](https://behance.net/mucaos) <br>
+  *RPG em Python*: [Astros Perdidos](https://github.com/jovemfs/Astros/) <br>
+  *Pesquisa 19 H.W.*: [(em desenvolvimento)](https://github.com/jovemfs/Hello) <br>
+  *Daily.dev leiturinhas*: [perfilzinho](https://app.daily.dev/jovemfs) <br>
+  
+  <img align="center" width="310" src="https://user-images.githubusercontent.com/59957939/165213217-4e92425e-84f0-486e-beab-6931aec602e1.png">
+  
+</details>
 <!-- sobre mim -->
   
 </div>
