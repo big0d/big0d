@@ -1,6 +1,6 @@
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%fbb9ff&size=18&duration=6000&center=true&vCenter=true&width=600&lines=Bem+vindo+ao+meu+perfil!;Repositórios+importantes+estão+pinnados.;Portfólio+digital+em+behance.net/mucaos.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%fbb9ff&size=18&duration=5000&center=true&vCenter=true&width=600&lines=Bem+vindo+ao+meu+perfil!;Repositórios+importantes+estão+pinnados.;Portfólio+digital+em+behance.net/mucaos.)](https://git.io/typing-svg)
 <!-- vc pode personalizar o texto nesse site aqui: https://readme-typing-svg.herokuapp.com/demo/ :) -->
 </div>
 
