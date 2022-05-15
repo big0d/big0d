@@ -45,9 +45,12 @@
   
 </div>
 <!-- estatisticas -->
-  
+
+  <img align="left" width="120" src="https://img.itch.zone/aW1nLzQ0NTQ0ODEuZ2lm/original/OnrQhz.gif">
+  <img align="right" width="120" src="https://img.itch.zone/aW1nLzQ0NTQ0ODEuZ2lm/original/OnrQhz.gif">
+ 
 ##
- <br>
+<br>
 
 <div align="center">
 <!-- social -->
