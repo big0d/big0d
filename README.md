@@ -46,7 +46,7 @@
 </div>
 <!-- estatisticas -->
 
-  <img align="left" width="100" src="https://66.media.tumblr.com/f29e750fc61706fbe8eb96a8ad2d1031/tumblr_mfbfgkrRAz1rfjowdo1_500.gif"><img align="right" width="100" src="https://66.media.tumblr.com/f29e750fc61706fbe8eb96a8ad2d1031/tumblr_mfbfgkrRAz1rfjowdo1_500.gif">
+ <!-- <img align="left" width="100" src="https://66.media.tumblr.com/f29e750fc61706fbe8eb96a8ad2d1031/tumblr_mfbfgkrRAz1rfjowdo1_500.gif"><img align="right" width="100" src="https://66.media.tumblr.com/f29e750fc61706fbe8eb96a8ad2d1031/tumblr_mfbfgkrRAz1rfjowdo1_500.gif"> -->
  <!-- GIFS
  fogo https://img.itch.zone/aW1nLzQ0NTQ0ODEuZ2lm/original/OnrQhz.gif
  alien http://orig05.deviantart.net/31ad/f/2015/146/4/0/404aec19907e65d0ecbc2e52eac76538-d8uw910.gif
@@ -58,7 +58,6 @@
  totoro 2 https://i.pinimg.com/originals/a8/63/c9/a863c903519e94202f227c7bf3b24be9.gif -->
  
 ##
-<br>
 
 <div align="center">
 <!-- social -->
@@ -74,8 +73,6 @@
    <a href="https://app.daily.dev/jovemfs" alt="Daily Dev">
    <img src="https://img.shields.io/badge/-Daily.dev-1C1C1C?style=for-the-badge&logo=Ghost&logoColor=FFF" target="_blank"></a> 
 <!-- social -->
- 
-##
   
 <!-- sobre mim -->
 <details>
