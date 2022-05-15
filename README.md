@@ -46,7 +46,16 @@
 </div>
 <!-- estatisticas -->
 
-  <img align="left" width="120" src="https://img.itch.zone/aW1nLzQ0NTQ0ODEuZ2lm/original/OnrQhz.gif"><img align="right" width="120" src="https://img.itch.zone/aW1nLzQ0NTQ0ODEuZ2lm/original/OnrQhz.gif">
+  <img align="left" width="100" src="https://i.pinimg.com/originals/9d/d1/a0/9dd1a0c90caa865e3718947e2b91d35e.gif"><img align="right" width="100" src="https://i.pinimg.com/originals/9d/d1/a0/9dd1a0c90caa865e3718947e2b91d35e.gif">
+ <!-- GIFS
+ fogo https://img.itch.zone/aW1nLzQ0NTQ0ODEuZ2lm/original/OnrQhz.gif
+ alien http://orig05.deviantart.net/31ad/f/2015/146/4/0/404aec19907e65d0ecbc2e52eac76538-d8uw910.gif
+ caveira doom https://cdnb.artstation.com/p/assets/images/images/012/332/193/original/peter-keenan-skull-export.gif?1534256936
+ doom marine https://thumbs.gfycat.com/HighlevelWealthyHarrier-max-1mb.gif
+ azur https://i.pinimg.com/originals/cb/e2/2d/cbe22db13550075e95c45c04d171fd5e.gif
+ totoro dormindo https://66.media.tumblr.com/f29e750fc61706fbe8eb96a8ad2d1031/tumblr_mfbfgkrRAz1rfjowdo1_500.gif
+ totoro https://i.pinimg.com/originals/e3/28/8c/e3288c530b407dd2c485121a61ad70e9.gif
+ totoro 2 https://i.pinimg.com/originals/a8/63/c9/a863c903519e94202f227c7bf3b24be9.gif -->
  
 ##
 <br>
