@@ -104,10 +104,7 @@
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jovemfs&repo=Python&theme=react)](https://github.com/jovemfs/Python)
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jovemfs&repo=JavaScript&theme=react)](https://github.com/jovemfs/JavaScript)
    <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jovemfs&repo=AlgoritmosEVariaveis0.1&theme=react)](https://github.com/jovemfs/AlgoritmosEVariaveis0.1)-->
-  
-  
-  <img align="center" width="310" src="https://user-images.githubusercontent.com/59957939/165213217-4e92425e-84f0-486e-beab-6931aec602e1.png">
-  
+ 
 </details>
 <!-- exercícios -->
   
