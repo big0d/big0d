@@ -46,7 +46,7 @@
 </div>
 <!-- estatisticas -->
 
-  <img align="left" width="100" src="https://i.pinimg.com/originals/9d/d1/a0/9dd1a0c90caa865e3718947e2b91d35e.gif"><img align="right" width="100" src="https://i.pinimg.com/originals/9d/d1/a0/9dd1a0c90caa865e3718947e2b91d35e.gif">
+  <img align="left" width="100" src="https://66.media.tumblr.com/f29e750fc61706fbe8eb96a8ad2d1031/tumblr_mfbfgkrRAz1rfjowdo1_500.gif"><img align="right" width="100" src="https://66.media.tumblr.com/f29e750fc61706fbe8eb96a8ad2d1031/tumblr_mfbfgkrRAz1rfjowdo1_500.gif">
  <!-- GIFS
  fogo https://img.itch.zone/aW1nLzQ0NTQ0ODEuZ2lm/original/OnrQhz.gif
  alien http://orig05.deviantart.net/31ad/f/2015/146/4/0/404aec19907e65d0ecbc2e52eac76538-d8uw910.gif
