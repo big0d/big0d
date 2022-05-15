@@ -14,7 +14,7 @@
 <!--f997ff-->
 <!--fbb9ff-->
 
-##
+<br>
 
 <!-- estatisticas -->
 <div align="center">
@@ -57,7 +57,8 @@
  totoro https://i.pinimg.com/originals/e3/28/8c/e3288c530b407dd2c485121a61ad70e9.gif
  totoro 2 https://i.pinimg.com/originals/a8/63/c9/a863c903519e94202f227c7bf3b24be9.gif -->
  
-##
+<br>
+   <br>
 
 <div align="center">
 <!-- social -->
@@ -73,6 +74,9 @@
    <a href="https://app.daily.dev/jovemfs" alt="Daily Dev">
    <img src="https://img.shields.io/badge/-Daily.dev-1C1C1C?style=for-the-badge&logo=Ghost&logoColor=FFF" target="_blank"></a> 
 <!-- social -->
+ 
+ <br>
+   <br>
   
 <!-- sobre mim -->
 <details>
@@ -104,6 +108,8 @@
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jovemfs&repo=Python&theme=react)](https://github.com/jovemfs/Python)
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jovemfs&repo=JavaScript&theme=react)](https://github.com/jovemfs/JavaScript)
    <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jovemfs&repo=AlgoritmosEVariaveis0.1&theme=react)](https://github.com/jovemfs/AlgoritmosEVariaveis0.1)-->
+ 
+  <img align="center" width="310" src="https://user-images.githubusercontent.com/59957939/165213217-4e92425e-84f0-486e-beab-6931aec602e1.png">
  
 </details>
 <!-- exercícios -->
