@@ -19,9 +19,9 @@
 <!-- estatisticas -->
 <div align="center">
   <a href="https://github.com/jovemfs">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jovemfs&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="162em" src="https://github-readme-stats.vercel.app/api?username=jovemfs&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
  <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovemfs&layout=compact&langs_count=16&theme=graywhite"/>-->
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovemfs&hide=html&layout=compact&theme=dark"/>
+ <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovemfs&hide=html&layout=compact&theme=dark"/>
   <!--<img height="162em" src="https://github-readme-stats.vercel.app/api/wakatime?username=jovemfs&layout=compact&hide_title=true&hide_border=true&count_private=true&theme=dark">
   <img height="162em" src="https://c.tenor.com/oZU8_qYQ-oEAAAAC/iwakura-lain.gif">-->
 </div>
