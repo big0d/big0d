@@ -99,19 +99,27 @@
 <!-- sobre mim -->
  
  <!-- exercícios -->
-<!-- <details>
+<details>
   <summary> <b>Exercícios</b><i> (clickzin para abrir)</i> </summary> 
   
   <img align="center" width="310" src="https://user-images.githubusercontent.com/59957939/165213217-4e92425e-84f0-486e-beab-6931aec602e1.png">
-  <br><br>
   
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jovemfs&repo=Python&theme=react)](https://github.com/jovemfs/Python)
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jovemfs&repo=JavaScript&theme=react)](https://github.com/jovemfs/JavaScript)
-   <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jovemfs&repo=AlgoritmosEVariaveis0.1&theme=react)](https://github.com/jovemfs/AlgoritmosEVariaveis0.1)-->
+<div style:align="center" style="display: inline_block"><br>
+   <a href="https://github.com/jovemfs/JavaAulas"><img height="98px" src="https://github-readme-stats.vercel.app/api/pin/?username=jovemfs&repo=JavaAulas&theme=dark"></a>
+   <a href="https://github.com/jovemfs/JavaScript"><img height="98px" src="https://github-readme-stats.vercel.app/api/pin/?username=jovemfs&repo=JavaScript&theme=dark"></a>
+   <a href="https://github.com/jovemfs/AlgoritmoAulas"><img height="98px" src="https://github-readme-stats.vercel.app/api/pin/?username=jovemfs&repo=AlgoritmoAulas&theme=dark"></a>
+   <a href="https://github.com/jovemfs/Modelagem-dados"><img height="98px" src="https://github-readme-stats.vercel.app/api/pin/?username=jovemfs&repo=Modelagem-dados&theme=dark"></a>
+   <a href="https://github.com/jovemfs/Bootstrap"><img height="98px" src="https://github-readme-stats.vercel.app/api/pin/?username=jovemfs&repo=Bootstrap&theme=dark"></a>
+   <a href="https://github.com/jovemfs/ToDoList"><img height="98px" src="https://github-readme-stats.vercel.app/api/pin/?username=jovemfs&repo=ToDoList&theme=dark"></a>
+   <a href="https://github.com/jovemfs/CEPreact"><img height="98px" src="https://github-readme-stats.vercel.app/api/pin/?username=jovemfs&repo=CEPreact&theme=dark"></a>
+   <a href="https://github.com/jovemfs/medcare"><img height="98px" src="https://github-readme-stats.vercel.app/api/pin/?username=jovemfs&repo=medcare&theme=dark"></a>
+   <a href="https://github.com/jovemfs/SiteResponsivo"><img height="98px" src="https://github-readme-stats.vercel.app/api/pin/?username=jovemfs&repo=SiteResponsivo&theme=dark"></a>
+</div><br>
  
-  <!--<img align="center" width="310" src="https://user-images.githubusercontent.com/59957939/165213217-4e92425e-84f0-486e-beab-6931aec602e1.png">
+<img align="center" width="310" src="https://user-images.githubusercontent.com/59957939/165213217-4e92425e-84f0-486e-beab-6931aec602e1.png">
  
-</details>-->
+</details>
+ 
 <!-- exercícios -->
   
 </div>
