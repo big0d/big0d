@@ -63,10 +63,10 @@
 <div align="center">
 <!-- social -->
    <a href="https://www.behance.net/mucaos" alt="Behance">
-   <img src="https://img.shields.io/badge/-Behance-1C1C1C?style=for-the-badge&logo=behance&logoColor=FFF&link=https://www.behance.net/giovxna"/></a>
+   <img src="https://img.shields.io/badge/-Behance-1C1C1C?style=for-the-badge&logo=behance&logoColor=FFF&link=https://www.behance.net/mucaos"/></a>
   
   <a href="https://www.linkedin.com/in/m0ur5/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=FFF&link=https://www.linkedin.com/in/giovana--siqueira/"/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=FFF&link=[https://www.linkedin.com/in/giovana--siqueira/](https://www.linkedin.com/in/m0ur5/)"/></a>
    
    <a href="mailto:uxmoura@gmail.com" alt="Gmail">
    <img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=FFF" target="_blank"></a> 
