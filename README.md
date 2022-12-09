@@ -1,6 +1,6 @@
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%fbb9ff&size=18&duration=5000&center=true&vCenter=true&width=600&lines=Bem+vindo+ao+meu+perfil!;Repositórios+importantes+estão+pinnados.;Portfólio+digital+em+behance.net/mucaos.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%fbb9ff&size=18&duration=5000&center=true&vCenter=true&width=600&lines=Bem+vindo+ao+meu+perfil!;Repositórios+importantes+estão+pinnados.;Portfólio+digital+em+behance.net/fayum.)](https://git.io/typing-svg)
 <!-- vc pode personalizar o texto nesse site aqui: https://readme-typing-svg.herokuapp.com/demo/ :) -->
 </div>
 
@@ -62,8 +62,8 @@
 
 <div align="center">
 <!-- social -->
-   <a href="https://www.behance.net/tiquenitos" alt="Behance">
-   <img src="https://img.shields.io/badge/-Behance-1C1C1C?style=for-the-badge&logo=behance&logoColor=FFF&link=https://www.behance.net/tiquenitos"/></a>
+   <a href="https://www.behance.net/fayum" alt="Behance">
+   <img src="https://img.shields.io/badge/-Behance-1C1C1C?style=for-the-badge&logo=behance&logoColor=FFF&link=https://www.behance.net/fayum"/></a>
   
   <a href="https://www.linkedin.com/in/m0ur5/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=FFF&link=[https://www.linkedin.com/in/giovana--siqueira/](https://www.linkedin.com/in/m0ur5/)"/></a>
