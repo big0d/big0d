@@ -71,7 +71,7 @@
    <a href="mailto:uxmoura@gmail.com" alt="Gmail">
    <img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=FFF" target="_blank"></a> 
   
-   <a href="https://app.daily.dev/jovemfs" alt="Daily Dev">
+  <!-- <a href="https://app.daily.dev/jovemfs" alt="Daily Dev">-->
    <img src="https://img.shields.io/badge/-Daily.dev-1C1C1C?style=for-the-badge&logo=Ghost&logoColor=FFF" target="_blank"></a> 
 <!-- social -->
  
