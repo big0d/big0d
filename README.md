@@ -1,7 +1,7 @@
 <div align="center">
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%fbb9ff&size=18&duration=5000&center=true&vCenter=true&width=600&lines=Bem+vindo+ao+meu+perfil!;Repositórios+importantes+estão+pinnados.;Portfólio+digital+em+behance.net/fayum.)](https://git.io/typing-svg)
-<!-- vc pode personalizar o texto nesse site aqui: https://readme-typing-svg.herokuapp.com/demo/ :) -->
+
 </div>
 
 <!-- CORES -->
@@ -30,9 +30,9 @@
    <!--<img height="175em" alt="anime hacking gif" src="https://i.imgur.com/8eYeXi9.gif"/>
   <img height="175em" alt="jovemfs's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jovemfs&theme=graywhite-metallian&hide_border=true"/>-->
   
-  <img height="187em" alt="anime hacking gif" src="https://pa1.narvii.com/6387/9a11050897be5995c58b1eb779939481aad89e08_hq.gif"/>
+  <img height="154em" alt="anime hacking gif" src="https://i.pinimg.com/originals/29/12/98/29129842108c46684a26c427741db074.gif"/>
   <a href="https://github.com/jovemfs/github-readme-streak-stats">
-  <img height="187em" alt="jovemfs's streak" src="https://github-readme-streak-stats.herokuapp.com?user=jovemfs&theme=black-ice&date_format=j%20M%5B%20Y%5D"/>
+  <img height="154em" alt="jovemfs's streak" src="https://github-readme-streak-stats.herokuapp.com?user=jovemfs&theme=black-ice&date_format=j%20M%5B%20Y%5D"/>
    <!-- http://github-readme-streak-stats.herokuapp.com?user=jovemfs&theme=nord&date_format=j%20M%5B%20Y%5D&border=24AEDD -->
    <!-- http://github-readme-streak-stats.herokuapp.com?user=jovemfs&theme=gotham&date_format=j%20M%5B%20Y%5D&border=24AEDD -->
    <!-- nord | react | graywhite | black-ice | dark -->
