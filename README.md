@@ -1,6 +1,6 @@
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%fbb9ff&size=18&duration=5000&center=true&vCenter=true&width=600&lines=Bem+vindo+ao+meu+perfil!;Repositórios+importantes+estão+pinnados.;Portfólio+digital+em+behance.net/fayum.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%fbb9ff&size=18&duration=5000&center=true&vCenter=true&width=600&lines=Bem+vindo+ao+meu+perfil!;Repositórios+importantes+estão+pinnados.;Portfólio+digital+em+behance.net/b1zio.)](https://git.io/typing-svg)
 
 </div>
 
